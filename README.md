@@ -9,11 +9,11 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Fuad01804580#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Fuad01804580#gh-dark-mode-only)
+[![website](./images/twitter-light.svg)](https://twitter.com/Fuad01804580#gh-light-mode-only)
+[![website](./images/twitter-dark.svg)](https://twitter.com/Fuad01804580#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/fuad-moin-a7b126259/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/fuad-moin-a7b126259/#gh-dark-mode-only)
+[![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/fuad-moin-a7b126259/#gh-light-mode-only)
+[![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/fuad-moin-a7b126259/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
