@@ -1,5 +1,7 @@
 # Hi there, I'm Fuad👋
 
+ <img align="right" src="./images/ezgif.com-video-to-gif.gif" width="50%" height="350px"/>
+
 ## I'm a software Developer!!
 
 - 🌱 I’m currently learning at [Microverse](https://www.microverse.org/)
