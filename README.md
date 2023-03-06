@@ -1,8 +1,5 @@
 # Hi there, I'm Fuad👋
 
-[Linkedin](https://www.linkedin.com/in/fuad-moin-a7b126259/)
-[Twitter ](https://twitter.com/Fuad01804580)
-
 ## I'm a software Developer!!
 
 - 🌱 I’m currently learning at [Microverse](https://www.microverse.org/)
